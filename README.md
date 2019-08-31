@@ -4,3 +4,6 @@ Spomusic aplicación donde obtenemos todos los albumnes y artista por el http(ge
 
 ## Imagenes
 
+![alt text](https://github.com/ChristianCruzArango/spomusic-angular-spotify/blob/master/src/assets/capturas/Captura1.PNG)
+![alt text](https://github.com/ChristianCruzArango/spomusic-angular-spotify/blob/master/src/assets/capturas/Captura2.PNG)
+![alt text](https://github.com/ChristianCruzArango/spomusic-angular-spotify/blob/master/src/assets/capturas/Captura3.PNG)
